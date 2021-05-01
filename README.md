@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-victorgsbarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgsbarbosa@gmail.com)](mailto:victorgsbarbosa@gmail.com)
 
 I'm Victor Gabriel. I am from Santos - Brazil, I am currently studying for a Computer Science bachelor's degree at UFPR and learning Neural Networks. Member of the CiDAMO group.
-## ⚡ Technologies
+## 🐱‍👤 Technologies / Resources
 - Front-end development using **HTML, Javascript, CSS, Jekyll and Asp**.
 - Backend development using **C#**.
 - Non-specific applications using **C**.
