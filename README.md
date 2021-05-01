@@ -21,5 +21,5 @@ I'm Victor Gabriel. I am from Santos - Brazil, I am currently studying for a Com
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector-b&show_icons=true&theme=radical)](https://github.com/vector-b/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vector-b&layout=compact)](https://github.com/vector-b/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
