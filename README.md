@@ -1,6 +1,8 @@
 <h2> 𝐇ello everyone!</h2>
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='center' src='https://user-images.githubusercontent.com/56267233/117076784-63793500-ad0d-11eb-9c30-4f75412f6b9e.gif' width='200"'>!
+
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@TheDirky-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheDirky)](https://twitter.com/TheDirky)
 [![Linkedin Badge](https://img.shields.io/badge/-VictorGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgsbarbosa/)](https://www.linkedin.com/in/victorgsbarbosa/)
