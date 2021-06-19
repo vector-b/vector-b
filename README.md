@@ -4,9 +4,9 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@TheDirky-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheDirky)](https://twitter.com/TheDirky)
-[![Linkedin Badge](https://img.shields.io/badge/-VictorGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgsbarbosa/)](https://www.linkedin.com/in/victorgsbarbosa/)
-[![Gmail Badge](https://img.shields.io/badge/-victorgsbarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgsbarbosa@gmail.com)](mailto:victorgsbarbosa@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDirky)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorgsbarbosa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgsbarbosa@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dirky07/)
 
 
