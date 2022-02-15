@@ -16,7 +16,6 @@ I'm Victor Gabriel. I am from Santos - Brazil, I am currently studying for a Com
 - Backend development using **C#**.
 - Non-specific applications using **C**.
 - Currently working on James Deliveryby in the role of Data Scientist
-[comment]: <> (- Desktop/Games application development using **Monogame** (Still learning).)
 
 
 
