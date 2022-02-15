@@ -15,8 +15,9 @@ I'm Victor Gabriel. I am from Santos - Brazil, I am currently studying for a Com
 - Front-end development using **HTML, Javascript, CSS, Jekyll and Asp**.
 - Backend development using **C#**.
 - Non-specific applications using **C**.
-- Desktop/Games application development using **Monogame** (Still learning).
-- Learning Neural Networks and Sound Recognition in **Python**.
+- Currently working on James Deliveryby in the role of Data Scientist
+[comment]: <> (- Desktop/Games application development using **Monogame** (Still learning).)
+
 
 
 
