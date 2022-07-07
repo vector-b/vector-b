@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dirky07/)
 
 
-I'm Victor Gabriel. I am from Santos - Brazil, I am currently studying for a Computer Science bachelor's degree at UFPR and learning Neural Networks. Member of the CiDAMO group.
+Hello there I'm Victor Gabriel. I am from Santos - Brazil, currently studying for a Computer Science bachelor's degree at UFPR and learning to be a better Data Scientist. Member of the CiDAMO group.
 ## 🐱‍👤 Technologies / Resources
 - Front-end development using **HTML, Javascript, CSS, Jekyll and Asp**.
 - Backend development using **C#**.
