@@ -10,12 +10,14 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dirky07/)
 
 
-Hello there! My name is Victor Gabriel. I am from Santos - Brazil, currently studying for a Computer Science bachelor's degree at UFPR and learning to be a better Data Scientist. Member of the CiDAMO group.
+My name is Victor Gabriel. I'm from Santos - Brazil, currently studying for a Computer Science bachelor's degree at UFPR and learning to be a better Data Scientist. Member of the CiDAMO group.
 ## 🐱‍👤 Technologies / Resources
 - Front-end development using **HTML, Javascript, CSS, Jekyll and Asp**.
+- Data-related projects using Python, SQL and Jupyter.
 - Backend development using **C#**.
 - Non-specific applications using **C**.
 - Currently working on James Delivery in the role of Data Scientist
+- Another tools: AWS, Sagemaker, MLflow, Airflow, Git, Docker, Anaconda, and others.
 
 
 
