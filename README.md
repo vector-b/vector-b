@@ -17,7 +17,7 @@ My name is Victor Gabriel. I'm from Santos - Brazil, currently studying for a Co
 - Backend development using **C#**.
 - Non-specific applications using **C**.
 - Currently working on James Delivery in the role of Data Scientist
-- Another tools: AWS, Sagemaker, MLflow, Airflow, Git, Docker, Anaconda, and others.
+- Another tools: AWS, Sagemaker, MLflow, Airflow, Git, Docker, Anaconda and others.
 
 
 
