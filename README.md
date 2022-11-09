@@ -12,7 +12,7 @@
 
 My name is Victor Gabriel. I'm from Santos - Brazil, currently studying for a Computer Science bachelor's degree at UFPR and working as a Data Scientist. Member of the CiDAMO group.
 ## 🐱‍👤 Technologies / Resources
-- Front-end development using **HTML, Javascript, CSS, Jekyll and Asp**.
+- Web Development using **HTML, Javascript, CSS, Django, Jekyll and Asp**.
 - Data-related projects using Python, SQL and Jupyter.
 - Backend development using **C#**.
 - Non-specific applications using **C**.
