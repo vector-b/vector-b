@@ -16,7 +16,7 @@ My name is Victor Gabriel. I'm from Santos - Brazil, currently studying for a Co
 - Data-related projects using Python, SQL and Jupyter.
 - Backend development using **C#**.
 - Non-specific applications using **C**.
-- Currently working on Nuvem Tecnologia in the role of Data Scientist
+- Currently working at Nuvem Tecnologia in the role of Data Scientist
 - Another tools: AWS, Sagemaker, MLflow, Airflow, Git, Docker, Anaconda and others.
 
 
