@@ -25,6 +25,5 @@ My name is Victor Gabriel. I'm from Santos - Brazil, currently studying for a Co
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector-b&show_icons=true&theme=radical)](https://github.com/vector-b/github-readme-stats)
 
 
-
-![visitors](https://page-views.glitch.me/badge?page_id=vector-b.vector-b)
+![visitors](https://komarev.com/ghpvc/?username=vector-b&color=dc143c)
 
