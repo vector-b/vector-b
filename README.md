@@ -18,9 +18,23 @@
 I'm a **Super Nerd Traveler Tengen Toppa Gurren Lagann Machine Learning Engineer**. 
 Currently working with **MLOps, personalization pipelines and large-scale ML architectures** at **Ambev / BEES**.
 
-My background blends **data science, backend development and some mobile** — from building recommendation systems and forecasting models to deploying and monitoring real-time ML solutions in production.
+My background blends **computer science data science, backend development and some mobile**. From building recommendation systems and forecasting models to deploying and monitoring real-time ML solutions in production.
 
 Beyond corporate work, I’m also building side projects under **Simbora**.
+
+---
+### 🎓 Professional Background
+
+💻 Technical Degree in Computer Science – ETEC Aristóteles Ferreira
+Solid foundation in programming, networking, and systems analysis, where my journey into tech began.
+
+🧠 B.Sc. in Computer Science (Non-finished) – Federal University of Paraná (UFPR)
+
+🔬 Researcher at CiDAMO (UFPR)
+Experience with applied machine learning and data-driven projects, exploring real-world use cases for forecasting and pattern recognition.
+
+💸 Professional Abandoner of Billion-Dollar Projects™
+Sometimes quitting early is just another form of innovation 🦄
 
 ---
 
