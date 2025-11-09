@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-I'm a **Super Nerd Traveler Tengen Topps Current Lagan Machine Learning Engineer**. 
+I'm a **Super Nerd Traveler Tengen Toppa Gurren Lagann Machine Learning Engineer**. 
 Currently working with **MLOps, personalization pipelines and large-scale ML architectures** at **Ambev / BEES**.
 
 My background blends **data science, backend development and some mobile** — from building recommendation systems and forecasting models to deploying and monitoring real-time ML solutions in production.
